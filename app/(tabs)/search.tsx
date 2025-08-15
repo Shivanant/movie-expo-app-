@@ -1,12 +1,10 @@
 import { View, Text } from 'react-native'
 import React from 'react'
 
-const movieDeails = () => {
+export default function search() {
   return (
     <View>
-      <Text>movieDeails</Text>
+      <Text>search</Text>
     </View>
   )
 }
-
-export default movieDeails
